@@ -142,7 +142,7 @@ hub:
 
    ```js
    [
-     "next=/hub/user-redirect/git-pull?repo=https://github.com/binder-examples/requirements&subPath=index.ipynb",
+     "next=/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbinder-examples%2Frequirements&urlpath=lab%2Ftree%2Frequirements%2Findex.ipynb&branch=main"
    ];
    ```
 
